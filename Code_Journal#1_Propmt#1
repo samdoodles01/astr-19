@@ -1,0 +1,13 @@
+#Write out full name and pronouns 
+full_name = "Samuel Milton"
+pronouns = "they/he"
+
+#Other Intrests 
+favorite_show = "Over the Garden Wall"
+favorite_food = "brownies"
+
+print("Full Name:", full_name)
+if pronouns: 
+	print("Pronouns:", pronouns)
+print("My favorite show is", favorite_show + ". It's an animated series on Cartoon Network.")
+print("My favorite food is", favorite_food + ". I like them fresh out of the oven with ice cream.")
